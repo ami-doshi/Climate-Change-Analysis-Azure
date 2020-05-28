@@ -6,4 +6,4 @@
 	2. Scikit-learn 
 	3. Seaborn
 	
-	[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/asdoshi/projects/climate-change-analysis-azure)
+	Azure Notebook: (https://notebooks.azure.com/asdoshi/projects/climate-change-analysis-azure)
